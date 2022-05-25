@@ -2,5 +2,21 @@ link para download do git:
 o Git bash é um terminal estendido para otimizar o uso do Git.
 
 Desafio TQI
-Introdução ao pensamento computacional - ok
-Introdução ao Git - GitHub - ok
+> Modulo I
+- Introdução ao pensamento computacional - ok
+- Introdução ao Git - GitHub - ok
+- Criando o primeiro repositório - ok
+
+Módulo II - HTML/CCS3
+
+Módulo III - JavaScript
+
+Módulo IV - ReactJS
+
+Módulo V - SQL
+
+Módulo VI - JAVA
+
+Módulo VII - Spring Framework
+
+Módulo VIII - QA
