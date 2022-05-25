@@ -1,0 +1,6 @@
+link para download do git: 
+o Git bash é um terminal estendido para otimizar o uso do Git.
+
+Desafio TQI
+Introdução ao pensamento computacional - ok
+Introdução ao Git - GitHub - ok
