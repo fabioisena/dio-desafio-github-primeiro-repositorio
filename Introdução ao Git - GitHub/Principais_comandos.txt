@@ -1,0 +1,10 @@
+git init   (inicia o git)
+cd  (change directory)
+cd .. (volta para um sub_diretório)
+ls (lista os itens do diretório)
+crtl + L (limpa a tela do Git Bash)
+
+git add . (adiciona os arquivos alterados)
+git commit -m "mensagem de info" (commita os arquivos added -m coloca uma msg de info)
+git push origin main / master (empurra o arquivo(s) do local para o repositório remoto)
+git pull (puxa o arquivo do repositório remoto para local)
